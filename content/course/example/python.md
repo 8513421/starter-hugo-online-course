@@ -5,7 +5,7 @@ type: book
 weight: 20
 ---
 
-Build a foundation in Python.
+Build a foundation in Python. uuuuuu
 
 <!--more-->
 
