@@ -4,7 +4,7 @@ title: Jan Namysł
 
 # Username (this should match the folder name)
 authors:
-- Jan Namysł 
+- 吳恩達
 
 # Is this the primary user of the site?
 superuser: false
