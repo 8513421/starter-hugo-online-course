@@ -5,16 +5,16 @@ weight: 20
 title: Features
 subtitle: ✨ Teach _anything_ with
 feature:
-  - icon: chalkboard-teacher
+  - icon: glob
     icon_pack: fas
-    name: Slides
+    name: Materiały online
     description: 
-  - icon: video
+  - icon: photo-video
     icon_pack: fas
-    name: Video
+    name: Zdjęcia aplikacji el.
     description: 
-  - icon: code
+  - icon: book
     icon_pack: fas
-    name: Math & Code
+    name: Unikalna wiedza
     description: 
 ---
