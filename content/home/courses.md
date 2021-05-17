@@ -11,10 +11,10 @@ content:
   filter_button:
     - name: All Courses
       tag: '*'
-    - name: Data Visualization
-      tag: Data Visualization
-    - name: Statistics
-      tag: Statistics
+    - name: Neuroplastyczność
+      tag: Neuroplastyczność
+    - name: Inżynieria nerwowa
+      tag: Inżynieria nerwowa
 design:
   columns: '1'
   view: 3
