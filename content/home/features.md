@@ -5,7 +5,7 @@ weight: 20
 title: Features
 subtitle: ✨ Teach _anything_ with
 feature:
-  - icon: glob
+  - icon: globe-europe
     icon_pack: fas
     name: Materiały online
     description: 
