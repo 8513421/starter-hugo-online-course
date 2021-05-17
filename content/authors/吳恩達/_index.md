@@ -1,29 +1,28 @@
 ---
 # Display name
-title: 吳恩達
+title: Jan Namysł 
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- Jan Namysł 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: R Instructor
+role: Instruktor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: INNOMED
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Nietrzymanie moczu i stolca, regeneracja nerwów obwodowych...
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- inkontynencja
+- regeneracja ObUN
 
 education:
   courses:
