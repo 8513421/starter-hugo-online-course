@@ -2,8 +2,8 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: ✨ Teach _anything_ with
+title: Możliwości
+subtitle: 
 feature:
   - icon: globe-europe
     icon_pack: fas
