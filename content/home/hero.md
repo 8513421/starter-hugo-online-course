@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Online Course Template
+title: Kursy online od INNOMED
 hero_media: student.svg
 design:
   background:
@@ -12,7 +12,7 @@ design:
     text_color_light: false
 cta:
   url: course/
-  label: Rozpocznik kurs!
+  label: Rozpocznij kurs!
   icon_pack: fas
   icon: user-graduate
 cta_alt:
@@ -24,7 +24,6 @@ advanced:
   css_class: fullscreen
 ---
 <br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. [INNOMED](https://innomed.pl/).
 
-Kursy online [INNOMED](https://innomed.pl/).
 
-<a class="github-button" href="https://innomed.pl" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Przejdź do INNOMED/polub kurs">Przejdź do INNOMED/polub kurs</a></script>
